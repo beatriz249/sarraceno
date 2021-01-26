@@ -1,4 +1,3 @@
-<?php include('server_BD.php')?>
 @extends('layouts.app')
 
 @section('content')
